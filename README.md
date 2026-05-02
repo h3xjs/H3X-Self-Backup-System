@@ -1,7 +1,7 @@
 # 🚀 H3X Self Backup System
 
 <p align="center">
-  <img src="https://your-banner-link.png" width="100%" alt="H3X Banner"/>
+  <img src="https://github.com/user-attachments/assets/7f9e51d0-3095-41f3-bbf4-06ee80497aa2" width="100%" alt="H3X Banner"/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ### 🧩 Panel Arayüzü
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee95941e-545a-4e12-bd34-cc42b8253393" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/ee95941e-545a-4e12-bd34-cc42b8253393" width="100%"/>
 </p>
 
 
