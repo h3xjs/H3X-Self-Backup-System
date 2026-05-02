@@ -41,14 +41,11 @@
 
 ## ⚙️ Kullanım
 
-```bash id="s8d2p1"
 1. Token gir → doğrula  
 2. Kaynak sunucu ID gir  
 3. Hedef sunucu ID gir  
 4. Backup başlat 🚀
-```
 
-```
 
 ---
 
