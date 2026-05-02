@@ -35,28 +35,9 @@
 ### 🧩 Panel Arayüzü
 
 <p align="center">
-  <img src="https://your-ui-1.png" width="45%"/>
-  <img src="https://your-ui-2.png" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/ee95941e-545a-4e12-bd34-cc42b8253393" width="45%"/>
 </p>
 
----
-
-### 📊 Step Sistemi & Log Paneli
-
-<p align="center">
-  <img src="https://your-ui-3.png" width="45%"/>
-  <img src="https://your-ui-4.png" width="45%"/>
-</p>
-
----
-
-### ⚙️ Backup İşlem Akışı
-
-<p align="center">
-  <img src="https://your-ui-5.png" width="60%"/>
-</p>
-
----
 
 ## ⚙️ Kullanım
 
