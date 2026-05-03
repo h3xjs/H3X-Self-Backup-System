@@ -14,19 +14,25 @@
 
 ## 🧠 Hakkında
 
-**H3X Self Backup**, Discord sunucularını **step-by-step doğrulama sistemiyle** güvenli şekilde yedekleyip başka bir sunucuya aktaran modern bir araçtır.
+**H3X Self Backup**, Discord sunucularını **adım adım doğrulama sistemiyle** güvenli şekilde yedekleyip hedef sunucuya **birebir en yakın şekilde aktaran** gelişmiş bir sistemdir.
+
+Sadece veri değil;  
+**rol yapısı, kanal düzeni, sunucu görünümü ve rol ikonları dahil** her şeyi mümkün olan en doğru şekilde kopyalar.
 
 ---
 
 ## ✨ Özellikler
 
-* 🔐 Token doğrulama
-* 📡 Kaynak sunucu kontrol
-* 🎯 Hedef sunucu kontrol
-* ⚡ RAM tabanlı hızlı backup
-* 🧹 Hedef temizleme sistemi
-* 🧾 Canlı log paneli
-* 🎨 Modern neon UI
+* 🔐 Token doğrulama sistemi  
+* 📡 Kaynak sunucu analiz & kontrol  
+* 🎯 Hedef sunucu doğrulama  
+* ⚡ RAM tabanlı ultra hızlı backup  
+* 🧹 Hedef sunucuyu temizleyerek sıfırdan kurulum  
+* 🏷️ Rol ikonlarını otomatik çekme ve oluşturma  
+* 🖼️ Sunucu adı + ikon + banner kopyalama  
+* 🧩 Kanal / kategori / rol sırasını birebir koruma  
+* 🧾 Canlı log & işlem takibi paneli  
+* 🎨 Modern, neon temalı premium arayüz  
 
 ---
 
@@ -36,36 +42,50 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee95941e-545a-4e12-bd34-cc42b8253393" width="100%"/>
+  <img width="115" height="256" alt="image" src="https://github.com/user-attachments/assets/83eb6ae9-51ef-48b8-95de-1ffadbc0b455" />
+
 </p>
 
+---
 
 ## ⚙️ Kullanım
 
-1. Token gir → doğrula  
-2. Kaynak sunucu ID gir  
-3. Hedef sunucu ID gir  
-4. Backup başlat 🚀
+1. 🔑 Token gir → doğrula  
+2. 📡 Kaynak sunucu ID gir → kontrol et  
+3. 🎯 Hedef sunucu ID gir → doğrula  
+4. 🚀 Backup başlat  
 
+> Sistem otomatik olarak tüm verileri analiz eder ve sıralı şekilde aktarır.
 
 ---
 
 ## 🛡️ Güvenlik
 
-* ❌ Token saklanmaz
-* ❌ Dış API yok
-* ✅ Local çalışır
+* ❌ Token kaydedilmez  
+* ❌ Hiçbir API / 3rd party servis kullanılmaz  
+* ✅ Tamamen local çalışır  
+* 🔒 Tüm işlemler sadece kullanıcı tarafında gerçekleşir  
+
+---
+
+## ⚠️ Uyarı
+
+Bu sistem yalnızca **kendi sunucularınızda kullanım** içindir.  
+Discord kurallarına aykırı kullanım tamamen kullanıcı sorumluluğundadır.
 
 ---
 
 ## ⭐ Destek
 
-⭐ Star at → yeni özellikler gelsin
+Projeyi beğendiysen:
+
+> ⭐ **Star at → gelişmiş sistemler açılsın**
 
 ---
 
 ## 🔥 Hedef
 
-> ⭐ 30 STAR → yeni sürüm + ekstra sistemler
+> ⭐ **30 STAR → V3 + ekstra özellikler + daha hızlı sistem**
 
 ---
 
