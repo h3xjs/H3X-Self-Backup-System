@@ -42,7 +42,6 @@ Sadece veri değil;
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee95941e-545a-4e12-bd34-cc42b8253393" width="100%"/>
-  <img width="115" height="256" alt="image" src="https://github.com/user-attachments/assets/83eb6ae9-51ef-48b8-95de-1ffadbc0b455" />
 
 </p>
 
