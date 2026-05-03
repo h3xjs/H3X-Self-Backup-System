@@ -64,7 +64,7 @@ Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu g�
 ### 4️⃣ Kurulmayacak Roller
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/827d7186-4148-4190-90a5-babe15321a8b" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/e50f683a-e54c-4c6f-a432-8b8a435da156" width="100%"/>
 </p>
 
 ---
