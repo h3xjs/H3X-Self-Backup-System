@@ -48,7 +48,7 @@ Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu g�
 ### 2️⃣ Kopyalanacak Sunucu
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5699ab4-69ec-4031-a1a5-38ae22fa5388" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/3c26b584-4cc3-4ca8-9fff-e358a7d5b509" width="100%"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu g�
 ### 3️⃣ Kurulum Sunucusu
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dc47d73f-4213-4b01-a956-8e83928dabb2" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/assets/1c89df1b-721b-4f7f-9920-34f68c5bbd63" width="100%"/>
 </p>
 
 ---
