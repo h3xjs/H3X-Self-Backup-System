@@ -14,80 +14,98 @@
 
 ## 🧠 Hakkında
 
-**H3X Self Backup**, Discord sunucularını **adım adım doğrulama sistemiyle** güvenli şekilde yedekleyip hedef sunucuya **birebir en yakın şekilde aktaran** gelişmiş bir sistemdir.
+**H3X Self Backup**, Discord sunucularını modern arayüz üzerinden **adım adım analiz edip** hedef sunucuya mümkün olan en yakın şekilde aktarmak için geliştirilmiş premium bir backup sistemidir.
 
-Sadece veri değil;  
-**rol yapısı, kanal düzeni, sunucu görünümü ve rol ikonları dahil** her şeyi mümkün olan en doğru şekilde kopyalar.
+Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu görünüm ayarlarını kontrol ederek **RAM tabanlı geçici yedek** oluşturur ve kurulum işlemini canlı log ile takip ettirir.
 
 ---
 
 ## ✨ Özellikler
 
-* 🔐 Token doğrulama sistemi  
-* 📡 Kaynak sunucu analiz & kontrol  
-* 🎯 Hedef sunucu doğrulama  
-* ⚡ RAM tabanlı ultra hızlı backup  
-* 🧹 Hedef sunucuyu temizleyerek sıfırdan kurulum  
-* 🏷️ Rol ikonlarını otomatik çekme ve oluşturma  
-* 🖼️ Sunucu adı + ikon + banner kopyalama  
-* 🧩 Kanal / kategori / rol sırasını birebir koruma  
-* 🧾 Canlı log & işlem takibi paneli  
-* 🎨 Modern, neon temalı premium arayüz  
+- 🔐 Token doğrulama ekranı
+- 📡 Kopyalanacak sunucu kontrolü
+- 🎯 Kurulum yapılacak hedef sunucu doğrulama
+- ⚡ RAM tabanlı hızlı backup sistemi
+- 🧹 Hedef sunucuyu temizleyerek sıfırdan kurulum
+- 🏷️ Rol ikonlarını ve emoji rollerini kopyalama
+- 🖼️ Sunucu adı, icon ve banner kopyalama
+- 🧩 Kategori / kanal / rol sırasını koruma
+- 🔒 Kanal izinlerini rollere göre yeniden eşleme
+- 🚫 Kurulmayacak rol seçme
+- 🚫 Kurulmayacak kanal / kategori seçme
+- ✏️ Toplu rol, kanal, kategori ismi düzenleme
+- 🧾 Canlı log ve işlem takip paneli
+- 🎨 H3X neon temalı modern arayüz
 
 ---
 
 ## 🖼️ Görseller
 
-### 🧩 Panel Arayüzü
+### 1️⃣ Token Doğrulama
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee95941e-545a-4e12-bd34-cc42b8253393" width="100%"/>
-
+  <img src="BURAYA_GORSEL_LINKI_1" width="100%"/>
 </p>
 
 ---
 
-## ⚙️ Kullanım
+### 2️⃣ Kopyalanacak Sunucu Seçimi
 
-1. 🔑 Token gir → doğrula  
-2. 📡 Kaynak sunucu ID gir → kontrol et  
-3. 🎯 Hedef sunucu ID gir → doğrula  
-4. 🚀 Backup başlat  
-
-> Sistem otomatik olarak tüm verileri analiz eder ve sıralı şekilde aktarır.
+<p align="center">
+  <img src="BURAYA_GORSEL_LINKI_2" width="100%"/>
+</p>
 
 ---
 
-## 🛡️ Güvenlik
+### 3️⃣ Kurulum Sunucusu Doğrulama
 
-* ❌ Token kaydedilmez  
-* ❌ Hiçbir API / 3rd party servis kullanılmaz  
-* ✅ Tamamen local çalışır  
-* 🔒 Tüm işlemler sadece kullanıcı tarafında gerçekleşir  
-
----
-
-## ⚠️ Uyarı
-
-Bu sistem yalnızca **kendi sunucularınızda kullanım** içindir.  
-Discord kurallarına aykırı kullanım tamamen kullanıcı sorumluluğundadır.
+<p align="center">
+  <img src="BURAYA_GORSEL_LINKI_3" width="100%"/>
+</p>
 
 ---
 
-## ⭐ Destek
+### 4️⃣ Kurulmayacak Roller
 
-Projeyi beğendiysen:
-
-> ⭐ **Star at → gelişmiş sistemler açılsın**
-
----
-
-## 🔥 Hedef
-
-> ⭐ **30 STAR → V3 + ekstra özellikler + daha hızlı sistem**
+<p align="center">
+  <img src="BURAYA_GORSEL_LINKI_4" width="100%"/>
+</p>
 
 ---
 
-## 👑 Geliştirici
+### 5️⃣ Kurulmayacak Kanal / Kategori
 
-**Creatéd by h3x**
+<p align="center">
+  <img src="BURAYA_GORSEL_LINKI_5" width="100%"/>
+</p>
+
+---
+
+### 6️⃣ Toplu İsim Düzenleme
+
+<p align="center">
+  <img src="BURAYA_GORSEL_LINKI_6" width="100%"/>
+</p>
+
+---
+
+### 7️⃣ Kurulum Ayarları
+
+<p align="center">
+  <img src="BURAYA_GORSEL_LINKI_7" width="100%"/>
+</p>
+
+---
+
+### 8️⃣ Canlı Log Paneli
+
+<p align="center">
+  <img src="BURAYA_GORSEL_LINKI_8" width="100%"/>
+</p>
+
+---
+
+## ⚙️ Kurulum
+
+```bash
+npm install
