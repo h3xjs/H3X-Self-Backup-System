@@ -1,11 +1,6 @@
 # 🚀 H3X Self Backup System
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb8607f9-4f7a-4a96-a886-32b89efd0d0c" width="100%" alt="H3X Banner"/>
-</p>
-![Uploading image.png…]()
-
-<p align="center">
   <img src="https://img.shields.io/badge/Version-2.0.0-dfff00?style=for-the-badge&logo=github&logoColor=black"/>
   <img src="https://img.shields.io/badge/Status-Active-35ff83?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Stars-Goal%2030⭐-69a7ff?style=for-the-badge"/>
@@ -135,3 +130,11 @@ Rol, kanal ve kategori isimlerini toplu olarak değiştirebilirsin.
 ```txt
 Bul: ✦
 Değiştir:
+```
+---
+
+## 🎁 Özel Hedef
+
+> ⭐ Bu repo **30 yıldız** ulaştığında proje herkese açık olarak paylaşılacaktır!
+
+Destek olmak için ⭐ bırakmayı unutma 🚀
