@@ -88,7 +88,7 @@ Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu g�
 ### 7️⃣ Kurulum Ayarları
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef1c7526-1835-4650-b43e-f8380101f32b" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/3b8bafdf-c501-454e-905d-044e099c907d" width="100%"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu g�
 ### 8️⃣ Son Önizleme
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b8bafdf-c501-454e-905d-044e099c907d" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/ac24c5bf-470d-4c08-9c60-e341c33274ac" width="100%"/>
 </p>
 
 ---
