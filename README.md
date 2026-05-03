@@ -56,7 +56,7 @@ Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu g�
 ### 3️⃣ Kurulum Sunucusu
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/assets/1c89df1b-721b-4f7f-9920-34f68c5bbd63" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/e50f683a-e54c-4c6f-a432-8b8a435da156" width="100%"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Sistem; rolleri, kanalları, kategorileri, izinleri, sıralamaları ve sunucu g�
 ### 4️⃣ Kurulmayacak Roller
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e50f683a-e54c-4c6f-a432-8b8a435da156" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/c118da9c-ecf5-4cef-b204-9a663b731a81" width="100%"/>
 </p>
 
 ---
